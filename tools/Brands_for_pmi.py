@@ -48,27 +48,16 @@ def group_cnt (texts,keywords) :
 
 #### Train model
 #######################################################################################################
-
-stdin_data=json.load(sys.stdin)
+# QQ = json.loads(sys.stdin.readline())
+stdin_data=json.loads(sys.stdin.readline())
+# stdin_data=json.load(sys.stdin)
 
 user_brands = map(lambda name : name.encode("utf-8") ,stdin_data["brands"])
 time_keys = [t for t in stdin_data["merged_r_d"].keys()]
-# print stdin_data["merged_r_d"]
-# print sorted( [t for t in stdin_data["merged_r_d"].keys()] , key = lambda ele : ele , reverse = False)
-# time_keys = sorted( [t for t in stdin_data["merged_r_d"].keys()] , key = lambda ele : ele , reverse = False)
-# print time_keys
-# brands_dict = {
-    # "台灣大哥大" : ['台哥大','台灣大哥大','台灣大','台哥','twm'],
-    # "中華電信" : ['中華電','中華電信','hinet','種花電信'],
-    # "遠傳電信" : ['遠傳電信','遠傳','fetnet','seednet'],
-    # "亞太電信" : ['亞太電信','亞太電','亞太','啞太'],
-    # "台灣之星" : ['台灣之星','臺灣之星','台星','tstar','Tstar','TSTAR','t-star']
-# }
+
 brands_dict = {}
 for ele in user_brands:
     brands_dict[ele.split(" ")[0]] = ele.split(" ")
-
-
 final_data = {}
 
 for timeQQ in time_keys:

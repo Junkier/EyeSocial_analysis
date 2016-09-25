@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+# Done.
 
 #### Load function
 #######################################################################################################
@@ -63,8 +64,8 @@ def fp_association(freqitems_set, keyword, rank, confcut) :
 #//-- linux OS version--//
 # userword = sys.argv[1]
 
-
-QQ = json.load(sys.stdin)
+QQ = json.loads(sys.stdin.readline())
+# QQ = json.load(sys.stdin)
 
 # Unicode convert to utf-8
 user_contents = map(lambda ele : ele.encode("utf-8") , QQ["mergedQQ"])
@@ -93,8 +94,6 @@ result[user_chosen_brands_utf8] = []
 
 # filter the same word & choose cut_count number
 judge_list = []
-# user_brands_len = len(user_brands_list)
-
 cut_count = 10 if len(user_brands_list) <= 3 else 5
 
 # 1st-stage
