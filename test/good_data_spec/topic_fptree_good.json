@@ -1,0 +1,40 @@
+{
+    "FPtree": [
+        {
+            "Level1": "desire",
+            "Level2": "",
+            "word": "htc",
+            "weight": 0.36363636363636365
+        },
+        {
+            "Level1": "請問",
+            "Level2": "",
+            "word": "htc",
+            "weight": 0.2727272727272727
+        },
+        {
+            "Level1": "請問",
+            "Level2": "rom",
+            "word": "htc",
+            "weight": 0.4
+        },
+        {
+            "Level1": "宏達電",
+            "Level2": "",
+            "word": "htc",
+            "weight": 0.18181818181818182
+        },
+        {
+            "Level1": "夕光紅",
+            "Level2": "",
+            "word": "htc",
+            "weight": 0.18181818181818182
+        },
+        {
+            "Level1": "系列",
+            "Level2": "",
+            "word": "htc",
+            "weight": 0.18181818181818182
+        }
+    ]
+}

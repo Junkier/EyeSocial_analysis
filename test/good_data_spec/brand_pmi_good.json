@@ -1,0 +1,1062 @@
+{
+    "2015-11": {
+        "HTC": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 1
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.5856105908443155
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.5610700242549976
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.5646625230060236
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.5486048972028409
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.5369681514005472
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0
+            }
+        },
+        "華為": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0.5610700242549976
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.641054580537617
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 1
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.7405149715804569
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.5878714938226156
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.5498192334612058
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0.6714334500583039
+            }
+        },
+        "SAMSUNG": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0.5856105908443155
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 1
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.641054580537617
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.5715517509293524
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.6063354504577013
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.4468623293078274
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0.5947266316522207
+            }
+        },
+        "小米": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0.5646625230060236
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.5715517509293524
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.7405149715804569
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 1
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.5407645235730763
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.5173339748901008
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0.592568664111841
+            }
+        },
+        "IPhone": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0.5486048972028409
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.6063354504577013
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.5878714938226156
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.5407645235730763
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 1
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.432977354046299
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0.586689060747261
+            }
+        },
+        "ASUS": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0.5369681514005472
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.4468623293078274
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.5498192334612058
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.5173339748901008
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.432977354046299
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 1
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 0.549653796803716
+            }
+        },
+        "SONY": {
+            "HTC": {
+                "w_count": 37,
+                "correl": 0
+            },
+            "SAMSUNG": {
+                "w_count": 187,
+                "correl": 0.5947266316522207
+            },
+            "華為": {
+                "w_count": 41,
+                "correl": 0.6714334500583039
+            },
+            "小米": {
+                "w_count": 70,
+                "correl": 0.592568664111841
+            },
+            "IPhone": {
+                "w_count": 237,
+                "correl": 0.586689060747261
+            },
+            "ASUS": {
+                "w_count": 74,
+                "correl": 0.549653796803716
+            },
+            "SONY": {
+                "w_count": 15,
+                "correl": 1
+            }
+        }
+    },
+    "2015-10": {
+        "HTC": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 1
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.4011242404788425
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.48700207209268453
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0.6286165886823043
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.605115957804785
+            }
+        },
+        "華為": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.5456956088616648
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 1
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0.7105497649183463
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.5568888446364044
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0.5223977862090363
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.5436359862394021
+            }
+        },
+        "SAMSUNG": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0.4011242404788425
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 1
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0.5456956088616648
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0.4649385079960149
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.6070428397344402
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0.42479217238714573
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.4410309082071151
+            }
+        },
+        "小米": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.4649385079960149
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0.7105497649183463
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 1
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.46489140905383475
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0.4525807474809304
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0
+            }
+        },
+        "IPhone": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0.48700207209268453
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.6070428397344402
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0.5568888446364044
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0.46489140905383475
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 1
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0.3821991847207984
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.40743973862399996
+            }
+        },
+        "ASUS": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0.6286165886823043
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.42479217238714573
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0.5223977862090363
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0.4525807474809304
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.3821991847207984
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 1
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0
+            }
+        },
+        "SONY": {
+            "HTC": {
+                "w_count": 15,
+                "correl": 0.605115957804785
+            },
+            "SAMSUNG": {
+                "w_count": 440,
+                "correl": 0.4410309082071151
+            },
+            "華為": {
+                "w_count": 37,
+                "correl": 0.5436359862394021
+            },
+            "小米": {
+                "w_count": 50,
+                "correl": 0
+            },
+            "IPhone": {
+                "w_count": 481,
+                "correl": 0.40743973862399996
+            },
+            "ASUS": {
+                "w_count": 62,
+                "correl": 0
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 1
+            }
+        }
+    },
+    "2015-12": {
+        "HTC": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 1
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.6032950668010038
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.6175382209504782
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.5585248439088762
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.590224528523941
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.5675420751229865
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.6812818507920652
+            }
+        },
+        "華為": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.6175382209504782
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.662663680761093
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 1
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.6959618849388478
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.6175860840845974
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.6066947163051789
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.6042479371194904
+            }
+        },
+        "SAMSUNG": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.6032950668010038
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 1
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.662663680761093
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.5354096553897999
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.5981967624022486
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.48030343403890535
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.6031781725597012
+            }
+        },
+        "小米": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.5585248439088762
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.5354096553897999
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.6959618849388478
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 1
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.5181969471344328
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.4995684101022832
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.5692267267202423
+            }
+        },
+        "IPhone": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.590224528523941
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.5981967624022486
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.6175860840845974
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.5181969471344328
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 1
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.48526055692475734
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.5323297993955858
+            }
+        },
+        "ASUS": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.5675420751229865
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.48030343403890535
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.6066947163051789
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.4995684101022832
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.48526055692475734
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 1
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 0.5392458236430759
+            }
+        },
+        "SONY": {
+            "HTC": {
+                "w_count": 32,
+                "correl": 0.6812818507920652
+            },
+            "SAMSUNG": {
+                "w_count": 199,
+                "correl": 0.6031781725597012
+            },
+            "華為": {
+                "w_count": 32,
+                "correl": 0.6042479371194904
+            },
+            "小米": {
+                "w_count": 78,
+                "correl": 0.5692267267202423
+            },
+            "IPhone": {
+                "w_count": 205,
+                "correl": 0.5323297993955858
+            },
+            "ASUS": {
+                "w_count": 71,
+                "correl": 0.5392458236430759
+            },
+            "SONY": {
+                "w_count": 16,
+                "correl": 1
+            }
+        }
+    },
+    "2016-01": {
+        "HTC": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 1
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.4975683484551709
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.5686138127481912
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.46649351127645
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.48419734612847437
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.5839845868967882
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.6419516343454108
+            }
+        },
+        "華為": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.5686138127481912
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.6242820370109364
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 1
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.7013257484912927
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.5100382730080838
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.5878051098017487
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.5441589941901854
+            }
+        },
+        "SAMSUNG": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.4975683484551709
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 1
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.6242820370109364
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.6125422945537187
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.5449328696753452
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.5328996532623902
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.629357655372234
+            }
+        },
+        "小米": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.46649351127645
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.6125422945537187
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.7013257484912927
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 1
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.4959118119770443
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.5810149325181667
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.5653425495652709
+            }
+        },
+        "IPhone": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.48419734612847437
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.5449328696753452
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.5100382730080838
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.4959118119770443
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 1
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.4832175058348779
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.5612338819046137
+            }
+        },
+        "ASUS": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.5839845868967882
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.5328996532623902
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.5878051098017487
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.5810149325181667
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.4832175058348779
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 1
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 0.6354041937353603
+            }
+        },
+        "SONY": {
+            "HTC": {
+                "w_count": 40,
+                "correl": 0.6419516343454108
+            },
+            "SAMSUNG": {
+                "w_count": 202,
+                "correl": 0.629357655372234
+            },
+            "華為": {
+                "w_count": 54,
+                "correl": 0.5441589941901854
+            },
+            "小米": {
+                "w_count": 66,
+                "correl": 0.5653425495652709
+            },
+            "IPhone": {
+                "w_count": 179,
+                "correl": 0.5612338819046137
+            },
+            "ASUS": {
+                "w_count": 57,
+                "correl": 0.6354041937353603
+            },
+            "SONY": {
+                "w_count": 19,
+                "correl": 1
+            }
+        }
+    },
+    "2015-09": {
+        "HTC": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 1
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.6455712371944895
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.6236325403535526
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.660715764788645
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.6306248751197122
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.5442002261919583
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.6562863212863316
+            }
+        },
+        "華為": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.6236325403535526
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.634839681774647
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 1
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.7765532640742099
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.5814412295210393
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.5962406431419397
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.6852017048305379
+            }
+        },
+        "SAMSUNG": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.6455712371944895
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 1
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.634839681774647
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.6809672378783997
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.5999354992967243
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.534278450170847
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.5801950370854274
+            }
+        },
+        "小米": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.660715764788645
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.6809672378783997
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.7765532640742099
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 1
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.598668235419984
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.6075086313494434
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.6149770708373262
+            }
+        },
+        "IPhone": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.6306248751197122
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.5999354992967243
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.5814412295210393
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.598668235419984
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 1
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.43530566562857986
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.5330117763277372
+            }
+        },
+        "ASUS": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.5442002261919583
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.534278450170847
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.5962406431419397
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.6075086313494434
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.43530566562857986
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 1
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 0.5354613326580472
+            }
+        },
+        "SONY": {
+            "HTC": {
+                "w_count": 42,
+                "correl": 0.6562863212863316
+            },
+            "SAMSUNG": {
+                "w_count": 138,
+                "correl": 0.5801950370854274
+            },
+            "華為": {
+                "w_count": 31,
+                "correl": 0.6852017048305379
+            },
+            "小米": {
+                "w_count": 21,
+                "correl": 0.6149770708373262
+            },
+            "IPhone": {
+                "w_count": 253,
+                "correl": 0.5330117763277372
+            },
+            "ASUS": {
+                "w_count": 56,
+                "correl": 0.5354613326580472
+            },
+            "SONY": {
+                "w_count": 22,
+                "correl": 1
+            }
+        }
+    }
+}
