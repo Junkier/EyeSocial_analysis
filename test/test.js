@@ -6,6 +6,9 @@ const fs = require("fs");
 // Main func.
 var go_test = new Test_Job();
 var promise_test = Object.keys(go_test).map(method=>go_test[method]());
+var url = "192.168.142.133:32777";
+
+// var promise_test = [go_test.topic_fptree()];
 
 Promise.all(promise_test).then(function(result){
     console.log("Good , All pass!!!!");
@@ -22,7 +25,7 @@ function Test_Job(){
                 fs.readFile("test_topic_fptree.json",function(err_fs,data){
                     if(err_fs){console.log(err_fs)};
                     request.post({
-                        url:"http://localhost:32777/go_analyze/topics_fptree" ,
+                        url:"http://"+url+"/go_analyze/topics_fptree" ,
                         json:{"analysis_ele":{
                                 "fp_raw_data":JSON.parse(data)["fptree"],
                                 "keyword" :"htc"
@@ -48,7 +51,7 @@ function Test_Job(){
                 fs.readFile("test_brand_fptree.json",function(err_fs,data){
                     if(err_fs){console.log(err_fs)};
                     request.post({
-                        url:"http://localhost:32777/go_analyze/brands_fptree" ,
+                        url:"http://"+url+"/go_analyze/brands_fptree" ,
                         json:{"analysis_ele":JSON.parse(data)},
                         timeout:60000
                     },function(err, httpResponse, body){
@@ -70,7 +73,7 @@ function Test_Job(){
                 fs.readFile("test_brand_pmi.json",function(err_fs,data){
                     if(err_fs){console.log(err_fs)};
                     request.post({
-                        url:"http://localhost:32777/go_analyze/brands_pmi" ,
+                        url:"http://"+url+"/go_analyze/brands_pmi" ,
                         json:{"analysis_ele":JSON.parse(data)},
                         timeout:60000
                     },function(err, httpResponse, body){

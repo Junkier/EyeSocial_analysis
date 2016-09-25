@@ -23,6 +23,7 @@ app.post("/go_analyze/:analysis_mode",function(req,res,next){
     var t_start = new Date();
 
     go_analyze(req.body.analysis_ele , req.params.analysis_mode).then(function(result){
+        console.log("------------------------------------------------------------------------------");
         console.log(req.params.analysis_mode + " done. use time :" + ((new Date()-t_start)/1000));
         res.json(result);
     }).catch(function(err){
@@ -32,7 +33,7 @@ app.post("/go_analyze/:analysis_mode",function(req,res,next){
 })
 
 app.listen(32777,function(){
-	console.log("Server is running at : localhost:32777");
+	console.log("Analysis server is running at : localhost:32777");
 });
 
 
